@@ -90,5 +90,15 @@ streamlit run call_system.py --server.address=0.0.0.0
 
 歡迎 fork 本 repo，若有部署新平台心得或修正建議也歡迎 PR 分享！
 
+##  一鍵部署（Fork 後再點擊下方 Badge 即可！）
+
+[![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_cloud_badge_white.svg)](https://streamlit.io/cloud)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Hugging Face Spaces](https://img.shields.io/badge/Spaces-Deploy-blue?logo=HuggingFace)](https://huggingface.co/new-space?template=streamlit)
+
+>  **先 Fork 本 repo，再點擊上方任一平台部署**
+
+
 
 
