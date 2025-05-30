@@ -90,10 +90,7 @@ streamlit run call_system.py --server.address=0.0.0.0
 
 歡迎 fork 本 repo，若有部署新平台心得或修正建議也歡迎 PR 分享！
 
-##  一鍵部署（Fork+Deploy）
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/jokctseng/queque_system)
-[![Hugging Face Spaces](https://img.shields.io/badge/Spaces-Deploy-blue?logo=HuggingFace)](https://huggingface.co/new-space?template=https://github.com/jokctseng/queque_system)
 
 
 
